@@ -1,15 +1,15 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: Lung Cancer Detection Using Deep Learning
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. Rahul Patel
+2. Anugum Jain
+3. Ankit Yadav
+
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+1. Insert CT scan image of Lung
+2. Output is predicted
+  
 
 ## Checklist:
 1. Final Project Report
