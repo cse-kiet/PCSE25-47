@@ -1,9 +1,9 @@
 # Title of Project: Lung Cancer Detection Using Deep Learning
 
-## Team Members:
-1. Rahul Patel
-2. Anugum Jain
-3. Ankit Yadav
+## Team Members:   Roll No.                 Section
+1. Rahul Patel    2100290100126             B
+2. Anugum Jain    2100290100126             B
+3. Ankit Yadav    2200290109004             B
 
 
 ## Steps for Execution:
