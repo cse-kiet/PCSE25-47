@@ -7,8 +7,12 @@
 
 
 ## Steps for Execution:
-1. Insert CT scan image of Lung
-2. Output is predicted
+ Step 1: Image Input from CT Scanner
+ Step 2: Image Preprocessing (Automated)
+ Step 3: Prediction by AI Model
+ Step 4: Display Output to Doctor
+ Step 5: Clinical Decision Support
+ Step 6: Save/Export Report
   
 
 ## Checklist:
